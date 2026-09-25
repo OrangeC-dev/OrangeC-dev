@@ -6,7 +6,7 @@ My background spans sound engineering, multilingual audio production and the eva
 
 ## Currently building
 
-- **Sound Capsule** — an interactive platform for preserving and exploring real-world soundscapes connected to places and moments in time
+- **Sound Capsule** — an interactive platform for preserving and exploring real-world soundscapes connected to places and moments in time -   - [View live website](https://orangec-dev.github.io/sound-capsule/)
 - **[Sound Engineering Portfolio](https://github.com/OrangeC-dev/sound-engineering-portfolio)** — a collection of sound design, audio post-production and creative audio work · [View live website](https://orangec-dev.github.io/sound-engineering-portfolio/)
 - **Champions League Data Lab** — a data project for retrieving, storing and analysing football data using Python, SQLite and external APIs. Designed relational database structures, wrote SQL queries for analysis, worked with API responses and structured data, and built workflows for updating tournament data.
 
